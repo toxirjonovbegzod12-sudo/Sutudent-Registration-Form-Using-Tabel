@@ -1,0 +1,238 @@
+body{
+    max-width: 1600px;
+    height: 800px;
+    background-color: azure;
+}
+.weryurak{
+     position: relative;
+}
+.container{
+    max-width: 1350px;
+    width: 1000px;
+    margin: 0 auto;
+    justify-content: center;
+  border: 4px solid #000000;
+border-style: dashed;
+    position: relative;
+   background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+    background-attachment: fixed;   
+}
+@media ( max-width:1600px){
+     .container{
+          max-width: 600px;
+          background: red;
+     }
+     .container{
+          flex-direction: column;
+     }
+}
+
+
+
+.neon__hedr{
+     max-width: 800px;
+     width: px;
+     text-align: center;
+     color: blue;
+      border-bottom: 4px solid rgb(0, 28, 188); 
+      position: absolute;
+      left: 400px;
+       /* display: flex; */
+        padding-bottom: -7px; 
+        /* justify-content: center; */
+
+}
+.card__box1{
+     width: 250px;
+      height: 40px;
+}
+
+
+.neon__wrapper{
+     max-width: 1600px;
+     display: flex;
+     
+     align-items: center;
+     gap: 235px;
+
+}
+.neon__card1{
+     max-width: 1600px;
+     display: flex;
+     
+     align-items: center;
+     gap: 240px;
+
+}
+.neon__card4{
+     max-width: 1600px;
+     display: flex;
+  
+     align-items: center;
+     gap: 260px;
+
+}
+.neon__card7{
+     max-width: 1600px;
+     display: flex;
+    
+     align-items: center;
+     gap: 175px;
+
+}
+.neon__card9{
+     max-width: 1600px;
+     display: flex;
+        align-items: center;
+     gap: 280px;
+
+}
+.neon__card11{
+     justify-content: center;
+     gap: 40px;
+     display: flex;
+}
+.neon__card12{
+     max-width: 1600px;
+     display: flex;
+     
+     align-items: center;
+     gap: 130px;
+
+}
+.neon__card14{
+
+
+     max-width: 1600px;
+     display: flex;
+     
+     align-items: center;
+     gap: 3px;
+}
+.neon__card1-4{
+     max-width: 1600px;
+     display: flex;
+     
+     align-items: center;
+     gap: 316px;
+}
+.neon__card18{
+     max-width: 1600px;
+    display: flex;
+    
+     display: flex;
+     margin: 0 auto;
+     align-items: center;
+     gap: 340px;
+
+}
+.neon__card20{
+     max-width: 1600px;
+    display: flex;
+    
+     display: flex;
+     margin: 0 auto;
+     align-items: center;
+     gap: 285px;
+
+}
+.neon__card23{
+     max-width: 1600px;
+    display: flex;
+    
+     display: flex;
+     margin: 0 auto;
+     align-items: center;
+     gap: 330px;
+
+}
+.neon__card26{
+     max-width: 1600px;
+    display: flex;
+    
+     display: flex;
+     margin: 0 auto;
+     align-items: center;
+     gap: 290px;
+}
+.neon__card2-8{
+     max-width: 1600px;
+    display: flex;
+    
+     display: flex;
+     margin: 0 auto;
+     align-items: center;
+     gap: 290px;
+}
+.neon__card29{
+     display: flex;
+     gap: 20px;
+}
+.neon__card3-0{
+     max-width: 1600px;
+    display: flex;
+    
+     display: flex;
+     margin: 0 auto;
+     align-items: center;
+     gap: 300px;
+}
+.neon__card31{
+     gap: 2500px;
+     justify-content: right;
+     /* border: 1px solid red; */
+     position: absolute;
+     left: 400px;
+     top: 970px;
+     
+}
+.neon__card32{
+     max-width: 1600px;
+    display: flex;
+    
+     display: flex;
+     margin: 0 auto;
+     align-items: center;
+     gap: 220px;
+}
+.neon__card34{
+     max-width: 1600px;
+    display: flex;
+    /* height: 00px; */
+     display: flex;
+     margin: 0 auto;
+     align-items: center;
+     gap: 120px;
+}
+.neon__card37{
+     max-width: 100px;
+     margin: 0 auto;
+     justify-content: center;
+     display: flex;
+     gap: 10px;
+  
+
+}
+.neon__38{
+         width: 2340px;
+height: 40px;
+
+  padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+
+
+}
+
+
+/* .reset{
+     width: 1000px;
+     margin: 0 auto;
+     justify-content: center;
+} */
+h1{
+     color: white;
+}
+p{
+     color: white;
+}
